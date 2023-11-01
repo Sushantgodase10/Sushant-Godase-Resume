@@ -7,7 +7,7 @@
 |
 | **Stacks** |HTML & CSS  |
 | **Author** |Sushant Godase |
-| **Live Link** | [Click Here]() |
+| **Live Link** | [Click Here](https://sushantgodase10.github.io/Sushant-Godase-Resume/) |
 | **Color Pallets** | [Click Here](https://colorhunt.co/) |
 | **Mobile Responsive** | Yes (<992px) |
 
@@ -21,7 +21,7 @@ You can access the style sheet from the style.css file
 
 ---
 ### Demo link
-Create by 
+[Create by ](https://sushantgodase10.github.io/Sushant-Godase-Resume/)
 ---
 
 ## Acknowledgments
@@ -48,11 +48,6 @@ I have refered code from live session from cyberdude network.
 ## Description
 
 Building my personal resume using html and css for interview.
-
-## Demo
-
-
-
 
 ## Technologies Used
 
