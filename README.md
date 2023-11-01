@@ -47,7 +47,7 @@ I have refered code from live session from cyberdude network.
 
 ## Description
 
-Building my personal resume using html and css for intenship project.
+Building my personal resume using html and css for interview.
 
 ## Demo
 
